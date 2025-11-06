@@ -1,0 +1,7 @@
+[style]
+based_on_style = pep8
+column_limit = 120
+indent_width = 4
+blank_line_before_nested_class_or_def = false
+dedent_closing_brackets = true
+split_before_first_argument = true
