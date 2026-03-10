@@ -1,0 +1,116 @@
+[
+  {
+    "url": "https://www.nature.com/nature.rss",
+    "name": "nature",
+    "category": "journals",
+    "added_date": "2026-03-06T23:52:48.639066"
+  },
+  {
+    "url": "https://www.nature.com/ng.rss",
+    "name": "nature-genetics",
+    "category": "journals",
+    "added_date": "2026-03-06T23:52:53.742850"
+  },
+  {
+    "url": "https://www.nature.com/nrg.rss",
+    "name": "nature-reviews-genetics",
+    "category": "journals",
+    "added_date": "2026-03-06T23:52:54.053068"
+  },
+  {
+    "url": "https://www.cell.com/cell/current.rss",
+    "name": "cell",
+    "category": "journals",
+    "added_date": "2026-03-06T23:52:54.369552"
+  },
+  {
+    "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+    "name": "science",
+    "category": "journals",
+    "added_date": "2026-03-06T23:52:54.681064"
+  },
+  {
+    "url": "NeurIPS.cc",
+    "name": "neurips",
+    "category": "conferences",
+    "feed_type": "openreview",
+    "added_date": "2026-03-07T00:01:24.719544"
+  },
+  {
+    "url": "ICML.cc",
+    "name": "icml",
+    "category": "conferences",
+    "feed_type": "openreview",
+    "added_date": "2026-03-07T00:01:25.178930"
+  },
+  {
+    "url": "ICLR.cc",
+    "name": "iclr",
+    "category": "conferences",
+    "feed_type": "openreview",
+    "added_date": "2026-03-07T00:01:25.624174"
+  },
+  {
+    "url": "0305-1048",
+    "name": "nucleic-acids-research",
+    "category": "journals",
+    "feed_type": "crossref",
+    "added_date": "2026-03-09T18:02:45.335148"
+  },
+  {
+    "url": "1367-4803",
+    "name": "bioinformatics",
+    "category": "journals",
+    "feed_type": "crossref",
+    "added_date": "2026-03-09T18:02:45.721090"
+  },
+  {
+    "url": "0737-4038",
+    "name": "molecular-biology-and-evolution",
+    "category": "journals",
+    "feed_type": "crossref",
+    "added_date": "2026-03-09T18:02:46.327040"
+  },
+  {
+    "url": "RECOMB",
+    "name": "recomb",
+    "category": "conferences",
+    "feed_type": "crossref_query",
+    "added_date": "2026-03-09T18:04:15.287304"
+  },
+  {
+    "url": "ISMB",
+    "name": "ismb",
+    "category": "conferences",
+    "feed_type": "crossref_query",
+    "added_date": "2026-03-09T18:04:15.652968"
+  },
+  {
+    "url": "0000872589",
+    "name": "regeneron",
+    "category": "filings",
+    "feed_type": "edgar",
+    "added_date": "2026-03-09T18:19:24.975806"
+  },
+  {
+    "url": "0000059478",
+    "name": "lilly",
+    "category": "filings",
+    "feed_type": "edgar",
+    "added_date": "2026-03-09T18:19:25.332556"
+  },
+  {
+    "url": "0000875320",
+    "name": "vertex",
+    "category": "filings",
+    "feed_type": "edgar",
+    "added_date": "2026-03-09T18:19:25.689996"
+  },
+  {
+    "url": "https://www.cell.com/ajhg/current.rss",
+    "name": "ajhg",
+    "category": "journals",
+    "feed_type": "rss",
+    "added_date": "2026-03-09T18:24:23.780116"
+  }
+]

@@ -3,3 +3,9 @@ checkpoints
 logs
 runs
 notebooks
+entries
+cache
+digests
+logs
+scratch
+.venv

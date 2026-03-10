@@ -1,6 +1,32 @@
-slurm:
-  partition: "yss"
-  time: "1:00:00"
-  output: "logs/%x.out"
-  error: "logs/%x.err"
-  cpus_per_task: 1
+email: "calbors@berkeley.edu"
+
+interests:
+  - "CRISPR gene editing therapy drug target identification"
+  - "protein structure prediction AlphaFold molecular biology"
+  - "genomics variant effect prediction functional annotation"
+  - "deep learning for biology neural network protein DNA RNA"
+  - "single cell sequencing transcriptomics gene expression"
+  - "drug discovery computational biology target validation"
+  - "large language models foundation models for science"
+  - "biotech startup entrepreneurship venture capital"
+  - "SEC 10-K 10-Q quarterly annual financial filing pharma"
+  - "transformer attention mechanism scaling laws neural architecture"
+  - "natural language processing text generation reasoning"
+  - "computer vision image recognition object detection segmentation"
+  - "reinforcement learning from human feedback alignment"
+  - "diffusion models generative AI image synthesis"
+  - "best paper award outstanding oral spotlight top tier"
+
+tags:
+  - "gwas"
+  - "datasets"
+  - "single-cell"
+  - "nlp"
+  - "computer vision"
+  - "reinforcement learning"
+  - "generative models"
+  - "genomics"
+  - "statistical genetics"
+  - "population genetics"
+  - "reporter assays"
+  - "spatial genomics"
